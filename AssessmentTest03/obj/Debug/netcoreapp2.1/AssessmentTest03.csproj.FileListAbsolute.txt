@@ -1,0 +1,13 @@
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\bin\Debug\netcoreapp2.1\AssessmentTest03.deps.json
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\bin\Debug\netcoreapp2.1\AssessmentTest03.runtimeconfig.json
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\bin\Debug\netcoreapp2.1\AssessmentTest03.runtimeconfig.dev.json
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\bin\Debug\netcoreapp2.1\AssessmentTest03.dll
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\bin\Debug\netcoreapp2.1\AssessmentTest03.pdb
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\obj\Debug\netcoreapp2.1\AssessmentTest03.csprojAssemblyReference.cache
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\obj\Debug\netcoreapp2.1\AssessmentTest03.AssemblyInfoInputs.cache
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\obj\Debug\netcoreapp2.1\AssessmentTest03.AssemblyInfo.cs
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\obj\Debug\netcoreapp2.1\AssessmentTest03.dll
+C:\Work\Viikko9\AssessmentTest03\AssessmentTest03\obj\Debug\netcoreapp2.1\AssessmentTest03.pdb
